@@ -29,8 +29,8 @@ print("Pigreco modificato:", math.pi)
 '''
 
 '''
-COSTANTE = 5 #due convenzioni per dichiare le "costanti"
-_costante = 5
+COSTANTE = 5 #convenzione per dichiare le "costanti"
+_variabilePrivata = 5 #convenzione per dichiarare le "variabili private"
 '''
 
 '''
